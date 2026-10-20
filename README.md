@@ -10,8 +10,9 @@
 
 - 🎓 B.Tech CSE student at Ramdeobaba University, Nagpur
 - 🏆 Built two prototypes for **Smart India Hackathon 2026**
-- 🖥️ Homelab tinkerer: if I can run it myself, I do
-- 🐧 CachyOS + Hyprland daily driver, always ricing something
+- 🤖 Building drones and robots | integrating automaation in daily life using mini hardware projects
+- 🖥️ Homelab tinkerer , deploying self hosted services going open source
+- 🐧 Developing low level linux tools, always ricing and customising something
 
 ## Featured projects
 
